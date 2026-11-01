@@ -1,4 +1,4 @@
-# amzscout-net
+# AMZScout
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,121 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-amzscout-net is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://amzscout.net/
+Use AMZScout and make Amazon product research easy with accurate research tools and seller software: AMZScout PRO Chrome Extension, Product Database, Keyword Search and more. Analyze niches and find the right product to make money. Start your free trial.
+
+**Areas:** amazon · fba · product-research · saas · ecommerce · Company
+
+## AMZScout on APIs.io
+
+Everything profiled for AMZScout is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/amzscout-net/](https://apis.io/providers/amzscout-net/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [AMZScout Discovery API](https://apis.io/apis/amzscout-net/amzscout-net-discovery-api/) — The discovery API from AMZScout — 1 operation(s) for discovery.
+- [AMZScout Dispatch API](https://apis.io/apis/amzscout-net/amzscout-net-dispatch-api/) — The dispatch API from AMZScout — 1 operation(s) for dispatch.
+- [AMZScout Tools API](https://apis.io/apis/amzscout-net/amzscout-net-tools-api/) — The tools API from AMZScout — 14 operation(s) for tools.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Amzscout Net Agentic Access](https://apis.io/agentic-access/amzscout-net/amzscout-net-agentic-access/)
+
+#### Overlays (1)
+
+OpenAPI overlays, including conversational phrasing for each operation.
+
+- [Amzscout Net Chatbot Amzscout Net Openapi Overlay](https://apis.io/overlays/amzscout-net/amzscout-net-chatbot-amzscout-net-openapi-overlay/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [AMZScout API Rules](https://apis.io/rules/amzscout-net/amzscout-net-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Amzscout Net Authentication](https://apis.io/security/amzscout-net/amzscout-net-authentication/)
+- [Amzscout Net Domain Security](https://apis.io/security/amzscout-net/amzscout-net-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Amzscout Net Scopes](https://apis.io/scopes/amzscout-net/amzscout-net-scopes/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://amzscout.net/)
+- [Documentation](https://learn.amzscout.net/)
+- [API reference](https://chatbot.amzscout.net/openapi.json)
+- [Pricing](https://amzscout.net/pricing/)
+- [Sign up](https://amzscout.net/signup/)
+- [Support](https://amzscout.net/help/?r=footer)
+- [Blog](https://amzscout.net/blog/)
+- [Terms of service](https://amzscout.net/terms-of-use?r=footer)
+- [Privacy policy](https://amzscout.net/privacy-policy?r=footer)
+
+## API Evangelist rating
+
+**Kin Score 44.2** — developing · rubric 0.26.0 · scored 2026-11-01
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 41.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 30.2 |
+| Access clarity | 44.7 |
+
+**Agent readiness 52.7** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | self |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 34.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/amzscout-net/](https://apis.io/providers/amzscout-net/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AMZScout: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/amzscout-net/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
